@@ -1,0 +1,13 @@
+-Executable File (digiReco):
+
+Assumption: The input file contains 784 numbers seperated by space and ends with \n.
+
+Write on Terminal: ./digiReco <input-image>
+Output: Predicted Label
+
+-Codes:
+
+Write on Terminal: python <python-file>
+Output: Accuracy
+
+These codes read the mnist data with the help of mnist folder which contains loader.py file and all the train and test files.
